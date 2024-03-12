@@ -1,2 +1,2 @@
 # Cryptocurrency-price-prediction
-Code for my thesis on cryptocurrency price prediction
+This repository contains the code that I used for my Thesis
